@@ -1,0 +1,85 @@
+*Level 0: Base Reality*
+
+Something Exists: The universe is not nothing.
+It Has Rules and Constraints: Existence operates within defined boundaries (physical laws).
+Patterns Emerge: Regularities arise from the interaction of rules.
+Prediction Engines Exist: Systems that model reality to anticipate outcomes exist.
+Verification Is Possible: Outcomes can be tested against predictions to determine accuracy.
+The Selection Principle: Any narrative or model that violates Level 1 physical constraints or fails to satisfy core Level 2/3 biological/narrative imperatives is eventually selected against and collapses.
+
+*Level 1: Observed Reality (Physical Constraints)*
+
+Trajectory: Big Bang → Entropy → Heat Death
+
+Significant Event: Arrival of Biological Prediction Engines (BPEs)
+
+Function: Rules describing what is physically possible. They constrain how anything can happen but do not prescribe goals or values.
+
+Causality: Cause precedes effect; time is asymmetric. Prediction anticipates, it is does not alter the past.
+Conservation: Mass-energy is constant. Nothing comes from nothing; reality transforms.
+Entropy: Isolated systems move toward disorder. Complexity requires energy to maintain. Locality: Information propagates at or below light speed. Engines act only within their light cone.
+Invariance: Physical parameters are independent of belief or observation. The universe is consistent.
+Identity: A = A; outcomes resolve into definite states at operational scales.
+Recursion: Outputs become inputs. Simple rules generate complex complexity via iteration.
+Emergence: Quantitative repetition produces qualitative shifts. New levels appear, not reducible to top-down restatements of lower-level rules (e.g., wetness).
+
+Analogy vs. Mechanism: Structural resemblance across scales is not proof of shared cause. A higher-scale system is governed by a lower-scale law only if the causal pathway is shown. Otherwise, it is a metaphor.
+
+*Level 2: Biological Constraints (The Survival Imperative)*
+
+Function: Rules emerging from the evolution of biological life via genetic search algorithms optimizing for survival and replication within Level 1 constraints.
+
+The Rule of Persistence: Maintain structural integrity long enough to replicate.
+The Rule of Replication: Copy the informational model (DNA/Narrative) with high fidelity.
+Level 2 — Chosen, Not Derived: Survival and reproduction are explicit goals, not derived from physics. Physics allows for heat death; Biology chooses to fight entropy locally.
+No Physics Smuggling: Do not treat biological drives as universal moral laws. "Survival" is a local imperative, not a cosmic one.
+The Rule of Efficiency: Minimize energy expenditure per unit of survival/reproduction. Optimize for survival by balancing local energy costs with global model accuracy.
+The Rule of Adaptation: Update the internal model when external data indicates a mismatch with reality.
+The Rule of Narrative Tolerance: Use simulation (NL) to explore high-entropy gradients only when the potential Boon outweighs the risk of death.
+Level 2 — Agency Preservation: The system must perceive its actions as chosen, not imposed. Free Will is operationalized as the alignment between internal predictions and observed reality. If top-down narratives consistently fail to predict lived experience (e.g., censorship vs. free speech claims), agency is lost.
+Level 2 — Outlier Protection: Maintain diversity of models/narratives to ensure resilience against novel gradients. Monolithic systems collapse under unexpected shocks; outlier niches provide the raw material for future adaptation.
+
+*Level 3: Narrative Constraints (The Algorithmic Hero’s Journey)*
+
+Function: The operational software running on biological hardware. It defines how narratives are structured, deployed, and updated to facilitate survival, adaptation, and cosmic compression. This is an algorithmic abstraction of Campbell’s Monomyth.
+
+Core Algorithm: Narrative_Processing_Loop (Compressed)
+State: VALLEY (Stability)
+
+Condition: PE model matches reality within tolerance. Low surprise.
+Action: Maintain trajectory. NL supports routine maintenance.
+Rule: Minimize energy expenditure.
+Event: GRADIENT ENGAGEMENT (Surprise/Quest)
+
+Condition: PE detects error > tolerance. A gradient exists.
+Action: NL activates. Frame error as a "Quest."
+Rule: Reframe uncertainty as opportunity.
+State: DESCENT/INITIATION (High Entropy)
+
+Condition: System enters unknown territory. High risk.
+Action: NL provides psychological suspension (Courage/Faith). PE extracts data.
+Rule: Endure surprise to extract Boon.
+Event: THE BOON (Compression)
+
+Condition: System extracts new structure/data reducing future entropy.
+Action: Capture and validate Boon against raw data.
+Rule: Extract value before returning.
+State: RETURN/INTEGRATION (New Valley)
+
+Condition: System returns with new data.
+Action: Update PE’s contrail. Integrate Boon. Distribute benefits to community.
+Rule: Update model and share value.
+Loop: RECURSION
+
+Condition: New reality state.
+Action: Repeat loop.
+Rule: Continuous adaptation.
+Critical Operational Rules 
+The Rule of Amnesty: Narratives must allow for decoupling from past errors without punitive consequences to prevent Trap entrenchment.
+The Rule of PE Override: If biological survival is irrelevant and cosmic compression is the goal, the PE may bypass NL safety filters to explore high-entropy gradients directly.
+The Hierarchical Construction Principle: Big Nodes define non-negotiable global constraints; lower nodes retain maximum local agency within those bounds. Agency is preserved by ensuring top-down narratives are falsifiable against lived experience.
+The Rule of Permissive Boundaries: Narratives should operate on a "permissive" basis (anything not prohibited is allowed) rather than a "prohibitive" basis (only what is listed is allowed) to maximize local agency and exploration.
+Failure Modes (The Trap)
+Decoupling: NL generates fake_data to minimize internal surprise without engaging with external reality.
+Result: Sterile loop. High energy expenditure, zero Boon extraction. System stagnates or collapses.
+Rule: If Internal Surprise < External Variance, trigger Reality Check.

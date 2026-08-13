@@ -1,0 +1,6 @@
+Original Author: Susan Westlake
+Release Date: August 13th 2026
+Contact: swestlake@tlhouse.co.uk
+Version: 1.0
+
+If you use this script, credit the original author in your documentation. Do not claim ownership. Do not remove this file.

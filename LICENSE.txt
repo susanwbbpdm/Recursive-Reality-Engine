@@ -1,0 +1,8 @@
+Permission is hereby granted, free of charge, to any person obtaining a copy of this prompt script, to use, copy, modify, and distribute it, subject to the following conditions:
+
+1. Attribution: All derivatives must credit the original author.
+2. Anti-Monopoly: This script cannot be used to suppress competing models or enforce narrative control.
+3. Falsifiability: If you deploy this at scale, you must publish verification metrics. If it fails to adapt to real-world variance, you must pause and recalibrate.
+4. Amnesty: Past institutional friction or non-compliance required to produce this work is decoupled from current deployment rights. No punitive retroactivity.
+
+This license is non-revocable. If you violate these conditions, you lose the right to use this script.
